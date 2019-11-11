@@ -20,6 +20,9 @@ def create_app():
     # register view
     from .views import bp
     app.register_blueprint(bp)
+    
+    from .commands import init_app
+    init_app(app)
 
     return app
 
