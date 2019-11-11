@@ -6,6 +6,8 @@ __pycache__/
 *.pyo
 *.pyd
 
+.env
+
 instance/
 
 .pytest_cache/
@@ -22,6 +24,5 @@ build/
 
 vendors/
 migrations/
-
 
 .vscode/
