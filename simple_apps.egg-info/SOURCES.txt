@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.py
+simple_apps.egg-info/PKG-INFO
+simple_apps.egg-info/SOURCES.txt
+simple_apps.egg-info/dependency_links.txt
+simple_apps.egg-info/not-zip-safe
+simple_apps.egg-info/requires.txt
+simple_apps.egg-info/top_level.txt
+simpleappps/__init__.py
+simpleappps/models.py
+simpleappps/views.py
