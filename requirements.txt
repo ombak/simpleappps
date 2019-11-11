@@ -3,6 +3,7 @@ Click==7.0
 Flask==1.1.1
 Flask-Migrate==2.5.2
 Flask-SQLAlchemy==2.4.1
+Flask-WTF==0.14.2
 freeze==1.0.10
 gunicorn==19.9.0
 itsdangerous==1.1.0
@@ -13,8 +14,7 @@ pkg-resources==0.0.0
 psycopg2==2.8.4
 python-dateutil==2.8.1
 python-editor==1.0.4
-# Editable Git install with no remote (simple-apps==0.1.0)
--e /home/saputra/Documents/Development/Exercises/Python/heroku/ujicoba03
 six==1.13.0
 SQLAlchemy==1.3.10
 Werkzeug==0.16.0
+WTForms==2.2.1
