@@ -2,4 +2,4 @@
 It's simple application for tutorial only.
 
 ## Autor
-* Sukma Wijaya Saputra [sukmasaputra.com](http://www.sukmasaputra.com/)
+* Sukma Wijaya Saputra - [www.sukmasaputra.com](http://www.sukmasaputra.com/)
